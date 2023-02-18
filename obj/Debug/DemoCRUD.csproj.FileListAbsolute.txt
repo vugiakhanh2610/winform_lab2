@@ -1,0 +1,12 @@
+C:\Users\kelvin\code\DemoCRUD\bin\Debug\DemoCRUD.exe.config
+C:\Users\kelvin\code\DemoCRUD\bin\Debug\DemoCRUD.exe
+C:\Users\kelvin\code\DemoCRUD\bin\Debug\DemoCRUD.pdb
+C:\Users\kelvin\code\DemoCRUD\obj\Debug\DemoCRUD.csproj.AssemblyReference.cache
+C:\Users\kelvin\code\DemoCRUD\obj\Debug\DemoCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvin\code\DemoCRUD\obj\Debug\DemoCRUD.Properties.Resources.resources
+C:\Users\kelvin\code\DemoCRUD\obj\Debug\DemoCRUD.Views.PetView.resources
+C:\Users\kelvin\code\DemoCRUD\obj\Debug\DemoCRUD.csproj.GenerateResource.cache
+C:\Users\kelvin\code\DemoCRUD\obj\Debug\DemoCRUD.csproj.CoreCompileInputs.cache
+C:\Users\kelvin\code\DemoCRUD\obj\Debug\DemoCRUD.exe
+C:\Users\kelvin\code\DemoCRUD\obj\Debug\DemoCRUD.pdb
+C:\Users\kelvin\code\DemoCRUD\obj\Debug\DemoCRUD.Views.MainView.resources
